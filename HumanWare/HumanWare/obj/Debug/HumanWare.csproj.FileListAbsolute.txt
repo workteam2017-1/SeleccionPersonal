@@ -1,0 +1,237 @@
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\ApplicationInsights.config
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\csc.exe
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\vbc.exe
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\HumanWare.dll.config
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\HumanWare.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\HumanWare.pdb
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Antlr3.Runtime.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\AspNet.ScriptManager.jQuery.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\EntityFramework.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.Web.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Newtonsoft.Json.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Owin.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\System.Web.Optimization.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\System.Web.Providers.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\WebGrease.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.Web.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\System.Web.Optimization.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Newtonsoft.Json.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\EntityFramework.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\System.Web.Providers.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\obj\Debug\HumanWare.csprojResolveAssemblyReference.cache
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\obj\Debug\HumanWare.dll
+D:\Visual Studio Workspace\HumanWare\HumanWare\HumanWare\obj\Debug\HumanWare.pdb
+F:\HumanWare\HumanWare\bin\ApplicationInsights.config
+F:\HumanWare\HumanWare\bin\roslyn\csc.exe
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\HumanWare\HumanWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\HumanWare\HumanWare\bin\roslyn\System.Collections.Immutable.dll
+F:\HumanWare\HumanWare\bin\roslyn\System.Reflection.Metadata.dll
+F:\HumanWare\HumanWare\bin\roslyn\vbc.exe
+F:\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe
+F:\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe.config
+F:\HumanWare\HumanWare\bin\HumanWare.dll.config
+F:\HumanWare\HumanWare\bin\HumanWare.dll
+F:\HumanWare\HumanWare\bin\HumanWare.pdb
+F:\HumanWare\HumanWare\bin\Antlr3.Runtime.dll
+F:\HumanWare\HumanWare\bin\AspNet.ScriptManager.bootstrap.dll
+F:\HumanWare\HumanWare\bin\AspNet.ScriptManager.jQuery.dll
+F:\HumanWare\HumanWare\bin\EntityFramework.dll
+F:\HumanWare\HumanWare\bin\EntityFramework.SqlServer.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.Agent.Intercept.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.Web.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.dll
+F:\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.dll
+F:\HumanWare\HumanWare\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\HumanWare\HumanWare\bin\Microsoft.ScriptManager.WebForms.dll
+F:\HumanWare\HumanWare\bin\Microsoft.Web.Infrastructure.dll
+F:\HumanWare\HumanWare\bin\Newtonsoft.Json.dll
+F:\HumanWare\HumanWare\bin\Owin.dll
+F:\HumanWare\HumanWare\bin\System.Web.Optimization.dll
+F:\HumanWare\HumanWare\bin\System.Web.Providers.dll
+F:\HumanWare\HumanWare\bin\WebGrease.dll
+F:\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AI.Web.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.xml
+F:\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.xml
+F:\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\HumanWare\HumanWare\bin\System.Web.Optimization.xml
+F:\HumanWare\HumanWare\bin\Antlr3.Runtime.pdb
+F:\HumanWare\HumanWare\bin\Newtonsoft.Json.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\HumanWare\HumanWare\bin\EntityFramework.xml
+F:\HumanWare\HumanWare\bin\EntityFramework.SqlServer.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\HumanWare\HumanWare\bin\System.Web.Providers.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.xml
+F:\HumanWare\HumanWare\obj\Debug\HumanWare.csprojResolveAssemblyReference.cache
+F:\HumanWare\HumanWare\obj\Debug\HumanWare.dll
+F:\HumanWare\HumanWare\obj\Debug\HumanWare.pdb
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\ApplicationInsights.config
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\csc.exe
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\vbc.exe
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\HumanWare.dll.config
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\HumanWare.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\HumanWare.pdb
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Antlr3.Runtime.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\EntityFramework.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\EntityFramework.SqlServer.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.Web.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Newtonsoft.Json.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Owin.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\System.Web.Optimization.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\System.Web.Providers.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\WebGrease.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.Web.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\System.Web.Optimization.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Antlr3.Runtime.pdb
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Newtonsoft.Json.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\EntityFramework.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\EntityFramework.SqlServer.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\System.Web.Providers.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\obj\Debug\HumanWare.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\obj\Debug\HumanWare.dll
+C:\Users\Flor\Documents\6SEMESTRE\HumanWare\HumanWare\obj\Debug\HumanWare.pdb
