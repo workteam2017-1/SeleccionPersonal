@@ -7,6 +7,7 @@
             <asp:ValidationSummary ID="vsCandidato" runat="server" />
 
     <br />
+
     <table style="width:63%" border="0">
     <tr>
             <th colspan="2"> Datos Candidato </th>
@@ -19,8 +20,15 @@
             <asp:RequiredFieldValidator ID="rfvNombresAp" 
                     ControlToValidate="txtNombresAp" Text="Por favor ingrese los nombres y apellidos" ForeColor="Red"
                     runat="server"></asp:RequiredFieldValidator></td>
-    </tr>
         <tr><td>&nbsp; </td></tr>
+    </tr>
+    <tr>
+      <td>  <asp:Label Text="Cédula" runat="server" /> </td>
+        <td> <asp:TextBox ID="TextBoxCedula" runat="server" TextMode="Number"/>
+           <asp:RequiredFieldValidator ID="rfvCedula" 
+                    ControlToValidate="TextBoxCedula" Text="Por favor ingrese la cédula" ForeColor="Red"
+                    runat="server"></asp:RequiredFieldValidator>  </>
+    </tr>
     <tr>
        <td> <asp:Label Text="E-mail:" runat="server" /> </td>
        <td> <asp:TextBox ID="txtEmail" runat="server"/> 
@@ -184,7 +192,8 @@
           </table>
             <br/>
     <asp:Button ID="btnEnviar" runat="server" OnClick="OnClickEnviar"  Text="Enviar"/>
+    <asp:Label runat="server" ID="lblResultado" ForeColor="Blue" Font-Bold="true"></asp:Label>
     
  </ContentTemplate>
 </asp:UpdatePanel>
-       </asp:Content>
+</asp:Content>

@@ -11,14 +11,7 @@
             <td rowspan="1" style="width: 255px" align="center"> &nbsp;<b>Empresa</b> </td>
             <td rowspan="1" align="center"> &nbsp;<b>Oferta</b></td>
         </tr>
-       <tr>
-            <td align="center"> ETB</td>
-            <td align="center" style="height: 46px"> <asp:Button ID="Button1" runat="server" Text="Se busca Ingeniero de telecomunicaciones" OnClick="OnClickOferta1"/></td>
-        </tr>
-       <tr>
-            <td align="center"> ETB</td>
-            <td align="center" style="height: 46px"> <asp:Button ID="Button2" runat="server" Text="Se busca celador nocturno" OnClick="OnClickOferta2"/></td>
-        </tr>
+        <asp:PlaceHolder ID="ButtonsPlaceHolder" runat="server"></asp:PlaceHolder>
     </table>
 
     </ContentTemplate>

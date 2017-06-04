@@ -51,11 +51,11 @@
         <tr><td>&nbsp; </td></tr>
     <tr >
     <td><asp:Label Text="Rango salarial:" runat="server" /></td>
-        <td> <asp:TextBox  ID="txtRangoSalario1" runat="server" TextMode="Number" MinimumValue="690000"></asp:TextBox> -- <asp:TextBox  ID="txtRangoSalario2" runat="server" TextMode="Number" MinimumValue="690000" ></asp:TextBox> 
-        <asp:RangeValidator ID="rvRangoSalarial1" ControlToValidate="txtRangoSalario1" Text="*" ForeColor="Red" 
-                    runat="server" > </asp:RangeValidator>
-            <asp:RangeValidator ID="RangeValidator2" ControlToValidate="txtRangoSalario2" Text="*" ForeColor="Red" 
-                    runat="server" > </asp:RangeValidator>
+        <td> <asp:TextBox  ID="txtRangoSalario1" runat="server" TextMode="Number" ></asp:TextBox> -- <asp:TextBox  ID="txtRangoSalario2" runat="server" TextMode="Number" ></asp:TextBox> 
+        <asp:RequiredFieldValidator ID="salarioMinValid" ControlToValidate="txtRangoSalario1" Text="*" ForeColor="Red" 
+                    runat="server" > </asp:RequiredFieldValidator>
+            <asp:RequiredFieldValidator ID="salarioMaxValid" ControlToValidate="txtRangoSalario2" Text="*" ForeColor="Red" 
+                    runat="server" > </asp:RequiredFieldValidator>
         </td>    </tr>
         <tr><td>&nbsp; </td></tr>
     <tr >
@@ -202,6 +202,7 @@
           </table>
             <br/>
     <asp:Button ID="btnPublicar" runat="server" Text="Publicar Oferta" OnClick="OnClickPublicar" />
+    <asp:Label runat="server" ID="lblResultado" ForeColor="Blue" Font-Bold="true"></asp:Label>
     
 </ContentTemplate>
 </asp:UpdatePanel>

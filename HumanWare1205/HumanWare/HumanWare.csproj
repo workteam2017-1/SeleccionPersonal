@@ -4,6 +4,7 @@
   <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>
@@ -283,8 +284,7 @@
     <Content Include="Content\clean-blog\vendor\font-awesome\scss\_variables.scss" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="HumanWare\DescripcionOferta.aspx" />
-    <Content Include="HumanWare\EvaluadorOferta1.aspx" />
-    <Content Include="HumanWare\EvaluadorOferta2.aspx" />
+    <Content Include="HumanWare\EvaluadorOferta.aspx" />
     <Content Include="HumanWare\FormularioCandidato.aspx" />
     <Content Include="HumanWare\FormularioEmpresa.aspx" />
     <Content Include="HumanWare\img\about-bg.jpg" />
@@ -329,7 +329,9 @@
     <Content Include="Global.asax" />
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
@@ -483,19 +485,12 @@
     <Compile Include="HumanWare\DescripcionOferta.aspx.designer.cs">
       <DependentUpon>DescripcionOferta.aspx</DependentUpon>
     </Compile>
-    <Compile Include="HumanWare\EvaluadorOferta1.aspx.cs">
-      <DependentUpon>EvaluadorOferta1.aspx</DependentUpon>
+    <Compile Include="HumanWare\EvaluadorOferta.aspx.cs">
+      <DependentUpon>EvaluadorOferta.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="HumanWare\EvaluadorOferta1.aspx.designer.cs">
-      <DependentUpon>EvaluadorOferta1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HumanWare\EvaluadorOferta2.aspx.cs">
-      <DependentUpon>EvaluadorOferta2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HumanWare\EvaluadorOferta2.aspx.designer.cs">
-      <DependentUpon>EvaluadorOferta2.aspx</DependentUpon>
+    <Compile Include="HumanWare\EvaluadorOferta.aspx.designer.cs">
+      <DependentUpon>EvaluadorOferta.aspx</DependentUpon>
     </Compile>
     <Compile Include="HumanWare\FormularioCandidato.aspx.cs">
       <DependentUpon>FormularioCandidato.aspx</DependentUpon>
@@ -559,6 +554,19 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{a7865422-3507-42f7-8f27-c552c9a014bf}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad\Entidad.csproj">
+      <Project>{db75faa4-fb1a-4e84-b821-fe56ff1910a8}</Project>
+      <Name>Entidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
