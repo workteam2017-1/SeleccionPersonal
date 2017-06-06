@@ -1,0 +1,22 @@
+D:\Documents\Downloads\HumanWare2CEF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\Negocio.dll
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\Negocio.pdb
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\AccesoDatos.dll
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\Entidad.dll
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\EntityFramework.dll
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\AccesoDatos.pdb
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\Entidad.pdb
+D:\Documents\Downloads\HumanWare2CEF\Negocio\bin\Debug\EntityFramework.xml
+D:\Documents\Downloads\HumanWare2CEF\Negocio\obj\Debug\Negocio.dll
+D:\Documents\Downloads\HumanWare2CEF\Negocio\obj\Debug\Negocio.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\Negocio.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\Negocio.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\AccesoDatos.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\Entidad.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\EntityFramework.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\AccesoDatos.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\Entidad.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\EntityFramework.xml
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.pdb

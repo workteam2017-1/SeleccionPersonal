@@ -1,0 +1,25 @@
+D:\Desktop\HumanWare1205\Entidad\bin\Debug\Entidad.dll
+D:\Desktop\HumanWare1205\Entidad\bin\Debug\Entidad.pdb
+D:\Desktop\HumanWare1205\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\Desktop\HumanWare1205\Entidad\obj\Debug\Entidad.dll
+D:\Desktop\HumanWare1205\Entidad\obj\Debug\Entidad.pdb
+D:\Escritorio\HumanWare1205\Entidad\bin\Debug\Entidad.dll
+D:\Escritorio\HumanWare1205\Entidad\bin\Debug\Entidad.pdb
+D:\Escritorio\HumanWare1205\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\Escritorio\HumanWare1205\Entidad\obj\Debug\Entidad.dll
+D:\Escritorio\HumanWare1205\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Flor\Desktop\HumanWare2CEF\Entidad\bin\Debug\Entidad.dll
+C:\Users\Flor\Desktop\HumanWare2CEF\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Flor\Desktop\HumanWare2CEF\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Desktop\HumanWare2CEF\Entidad\obj\Debug\Entidad.dll
+C:\Users\Flor\Desktop\HumanWare2CEF\Entidad\obj\Debug\Entidad.pdb
+D:\Documents\Downloads\HumanWare2CEF\Entidad\bin\Debug\Entidad.dll
+D:\Documents\Downloads\HumanWare2CEF\Entidad\bin\Debug\Entidad.pdb
+D:\Documents\Downloads\HumanWare2CEF\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\Documents\Downloads\HumanWare2CEF\Entidad\obj\Debug\Entidad.dll
+D:\Documents\Downloads\HumanWare2CEF\Entidad\obj\Debug\Entidad.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\bin\Debug\Entidad.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\bin\Debug\Entidad.pdb
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.dll
+D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.pdb
