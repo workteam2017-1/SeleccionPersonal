@@ -20,10 +20,10 @@ namespace HumanWare.HumanWare
         protected void OnClickLoguearse(object sender, EventArgs e)
         {
             ControlSeguridadEv control = new ControlSeguridadEv();
-            Evaluador eval = control.ConsultarEvaluador(txtUsuario.Text);
-            if (eval != null)
+            Evaluador usuario2 = control.ConsultarEvaluador(txtUsuario.Text);
+            if (usuario2 != null)
             {
-                if (control.VerificarUsuario(eval, txtClave.Text))
+                if (control.VerificarUsuario(usuario2, txtClave.Text))
                 {
                     FormsAuthenticationTicket ticket = new FormsAuthenticationTicket(1,
                         txtUsuario.Text, DateTime.Now,

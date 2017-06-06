@@ -12,11 +12,11 @@ namespace AccesoDatos
         protected override void Seed(HumanWareContext context)
         {
             Administrador newAdmin = new Administrador();
-            newAdmin.usuario = "admin";
+            newAdmin.usuario1 = "admin";
             newAdmin.contrasena = "123";
             context.Administradores.Add(newAdmin);
             Evaluador newEval = new Evaluador();
-            newEval.usuario = "admin";
+            newEval.usuario2 = "eval";
             newEval.contrasena = "123";
             context.Evaluadores.Add(newEval);
 

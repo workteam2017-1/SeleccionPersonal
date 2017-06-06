@@ -20,10 +20,10 @@ namespace HumanWare.HumanWare
         protected void OnClickLoguearse(object sender, EventArgs e)
         {
             ControlSeguridadAdm control1 = new ControlSeguridadAdm();
-            Administrador admin = control1.ConsultarAdministrador(txtUsuario.Text);
-            if (admin != null)
+            Administrador usuario1 = control1.ConsultarAdministrador(txtUsuario.Text);
+            if (usuario1 != null)
             {
-                if (control1.VerificarUsuario(admin, txtClave.Text))
+                if (control1.VerificarUsuario(usuario1, txtClave.Text))
                 {
                     FormsAuthenticationTicket ticket = new FormsAuthenticationTicket(1,
                         txtUsuario.Text, DateTime.Now,

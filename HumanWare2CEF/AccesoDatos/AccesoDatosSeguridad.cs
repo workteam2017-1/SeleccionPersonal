@@ -13,7 +13,7 @@ namespace AccesoDatos
         public Administrador ConsultarAdministrador(string nombreUsuario)
         {
             HumanWareContext context = new HumanWareContext();
-            administradorActual = context.Administradores.FirstOrDefault(u => u.usuario.Equals(nombreUsuario) );
+            administradorActual = context.Administradores.FirstOrDefault(u => u.usuario1.Equals(nombreUsuario) );
             return administradorActual;
         }
 
@@ -21,7 +21,7 @@ namespace AccesoDatos
         public Evaluador ConsultarEvaluador(string nombreUsuario)
         {
             HumanWareContext context = new HumanWareContext();
-            evaluadorActual = context.Evaluadores.FirstOrDefault(u => u.usuario.Equals(nombreUsuario));
+            evaluadorActual = context.Evaluadores.FirstOrDefault(u => u.usuario2.Equals(nombreUsuario));
 
             return evaluadorActual;
         }

@@ -20,3 +20,14 @@ D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\bin\Debug\EntityFramew
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.dll
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\Entidad.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Negocio\obj\Debug\Negocio.pdb

@@ -23,3 +23,8 @@ D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\bin\Debug\Entidad.pdb
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.dll
 D:\Universidad\Informatica Avanzada\HumanWare2CEF\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Entidad\bin\Debug\Entidad.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Flor\Desktop\HumanWare2CEFF\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Desktop\HumanWare2CEFF\Entidad\obj\Debug\Entidad.dll
+C:\Users\Flor\Desktop\HumanWare2CEFF\Entidad\obj\Debug\Entidad.pdb

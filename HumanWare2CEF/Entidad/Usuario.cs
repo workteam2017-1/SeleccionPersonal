@@ -10,7 +10,7 @@ namespace Entidad
     public class Administrador
     {
         [Key]
-        public string usuario { get; set; }
+        public string usuario1 { get; set; }
         public string contrasena { get; set; }
         public virtual ICollection<Administrador> Administradores { get; set; }
     }
@@ -18,7 +18,7 @@ namespace Entidad
     public class Evaluador
     {
         [Key]
-        public string usuario { get; set; }
+        public string usuario2 { get; set; }
         public string contrasena { get; set; }
         public virtual ICollection<Evaluador> Evaluadores { get; set; }
 
